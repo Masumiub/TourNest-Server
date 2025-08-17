@@ -90,7 +90,7 @@ Smooth, responsive Swiper carousels used for displaying package photos and stori
 - Stripe secret key
 
 1. Clone the Repository
-- git clone https://github.com/yourusername/tournest.git
+- git clone [https://github.com/yourusername/tournest.git](https://github.com/Masumiub/TourNest-Server.git)
 - cd tournest
 
 2. Install Client Dependencies
