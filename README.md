@@ -16,6 +16,10 @@ TourNest is a full-stack travel and tour booking web application that lets users
 - motiur@gmail.com
 - Samsung77
 
+# Guide email & password
+- abdullah.hasan@tournest.com
+- Samsung77
+
 
 # 📝 Project Description
 TourNest provides a seamless platform for travelers to:
