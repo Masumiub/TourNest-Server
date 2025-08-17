@@ -782,6 +782,17 @@ async function run() {
         });
 
 
+        app.get("/payments", async (req, res) => {
+            try {
+                const payments = await paymentsCollection.find().toArray();
+                res.status(200).json(payments);
+            } catch (err) {
+                console.error("Error fetching payments:", err);
+                res.status(500).json({ message: "Failed to fetch payments" });
+            }
+        });
+
+
 
 
 
